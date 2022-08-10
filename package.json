@@ -1,6 +1,6 @@
 {
   "name": "blueprint-to-postman",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts blueprint markdown to postman",
   "main": "lib/index.js",
   "directories": {
